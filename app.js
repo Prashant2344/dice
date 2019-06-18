@@ -73,8 +73,7 @@ document.querySelector(".btn-hold").addEventListener("click", function() {
       nextPlayer();
     }
   }
-  // //next player
-  // nextPlayer();
+
 });
 
 function nextPlayer() {
